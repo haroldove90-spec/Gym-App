@@ -1,0 +1,16 @@
+{
+  "short_name": "Gym App",
+  "name": "Gym App",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4ade80",
+  "background_color": "#18181b",
+  "description": "A modern, sleek gym fitness application to track progress, discover training programs, and book classes."
+}
